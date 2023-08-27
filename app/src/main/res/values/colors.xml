@@ -2,4 +2,10 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!--    added-->
+    <color name="red">#FFFF0000</color>
+    <color name="teal_200">#FF90E4C1</color>
+    <color name="teal_500">#FF009688</color>
+    <color name="teal_700">#FF00796B</color>
 </resources>
